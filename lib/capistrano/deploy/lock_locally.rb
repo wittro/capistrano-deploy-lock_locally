@@ -1,4 +1,6 @@
-require "capistrano/deploy/lock_locally/version"
+# frozen_string_literal: true
+
+require 'capistrano/deploy/lock_locally/version'
 
 module Capistrano
   module Deploy
